@@ -1,0 +1,25 @@
+{
+  "name": "wearscript",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Kadajett/wearscript",
+  "authors": [
+    "kadajett <jeremy.ryan.stover@gmail.com>"
+  ],
+  "license": "Apache 2.0",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "app/libs",
+    "node_modules"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.0.3",
+    "angular": "~1.2.7",
+    "angular-route": "~1.2.7",
+    "d3": "~3.3.13"
+  }
+}
