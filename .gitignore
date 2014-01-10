@@ -14,3 +14,4 @@ glass/Glass/Glass.iml
 glass/opencv-android/opencv-android.iml
 server/server
 vagrant/.vagrant
+app/libs/*
